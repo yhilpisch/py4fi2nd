@@ -12,7 +12,7 @@ The codes of the book are based on Python 3.7. The codes presented in this Githu
 
 There is a `yaml` file for the installation of required Python packages in the repository. This is to be used with the `conda` package manager (see https://conda.io/docs/user-guide/tasks/manage-environments.html). If you do not have Miniconda or Anaconda installed, we recommend to install **Miniconda 3.7** first (see https://conda.io/miniconda.html).
 
-After you have cloned the repository, do on the shell/Anaconda prompt:
+After you have cloned the repository, do on the shell (currently works on Mac OS):
 
     cd py4fi2nd
     conda env create -f py4fi2nd.yml
