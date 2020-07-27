@@ -6,6 +6,8 @@ cfg/
 *.txt~
 *.log
 *.apy
+.DS_Store
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
