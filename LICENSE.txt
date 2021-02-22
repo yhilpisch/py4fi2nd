@@ -1,5 +1,4 @@
-All the contents as well as the codes, Jupyter Notebooks and other materials in this
-Github repository and on the Quant Platform (http://py4fi.pqp.io) related to Python for Algorithmic Trading (book, course, class, program) by Dr. Yves J. Hilpisch (The Python Quants GmbH) are copyrighted and only intended for personal use.
+All the contents as well as the codes, Jupyter Notebooks and other materials in this Github repository and on the Quant Platform (http://py4fi.pqp.io) related to Python for Algorithmic Trading (book, course, class, program) by Dr. Yves J. Hilpisch (The Python Quants GmbH) are copyrighted and only intended for personal use.
 
 Any kind of sharing, distribution, duplication, etc. without written permission by the The Python Quants GmbH is prohibited.
 
