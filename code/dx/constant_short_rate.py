@@ -40,5 +40,5 @@ class constant_short_rate(object):
             dlist = get_year_deltas(date_list)
         else:
             dlist = np.array(date_list)
-        dflist = np.exp(self.short_rate * np.sort(-dlist))
+        dflist = np.exp(self.short_rate * -dlist)
         return np.array((date_list, dflist)).T
